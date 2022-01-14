@@ -2,6 +2,6 @@ body {
   display: flex;
   flex-direction: column;
 }
-main {
+.main {
   display: flex;
 }
