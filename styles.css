@@ -5,3 +5,7 @@ body {
 .main {
   display: flex;
 }
+.logo {
+  height: 100px;
+  width: auto;
+}
