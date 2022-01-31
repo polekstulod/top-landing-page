@@ -5,6 +5,9 @@ body {
 .main {
   display: flex;
 }
+.first {
+  background-color: #1f2937;
+}
 .logo {
   height: 100px;
   width: auto;
