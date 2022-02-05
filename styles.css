@@ -12,6 +12,9 @@ body {
 .push {
   margin-left: auto;
 }
+a {
+  text-decoration: none;
+}
 .first {
   background-color: #1f2937;
 }
