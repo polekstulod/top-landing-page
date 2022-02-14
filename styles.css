@@ -11,6 +11,10 @@ body {
   display: flex;
   background-color: #1f2937;
 }
+.links {
+  display: flex;
+  gap: 20px;
+}
 .push {
   margin-left: auto;
 }
