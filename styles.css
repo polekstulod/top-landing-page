@@ -4,6 +4,7 @@ body {
   margin: 0;
 }
 .main {
+  display: flex;
   padding: 0 100px;
 }
 .header {
@@ -22,7 +23,6 @@ a {
   color: #f9faf8;
 }
 .first {
-  display: flex;
   color: #f9faf8;
   background-color: #1f2937;
 }
@@ -57,7 +57,6 @@ a {
   border-color: #0a58ca;
 }
 .second {
-  display: flex;
   flex-direction: column;
 }
 .members {
@@ -74,4 +73,20 @@ a {
 .member-info,
 h2 {
   text-align: center;
+}
+.third {
+  background-color: #e5e7eb;
+  flex-direction: column;
+  padding: 50px;
+}
+.quote-text {
+  font-style: italic;
+  font-weight: lighter;
+  font-size: 36px;
+  color: #1f2937;
+  margin-bottom: 0;
+}
+.quote-author {
+  font-weight: bold;
+  text-align: right;
 }
