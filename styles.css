@@ -117,3 +117,9 @@ h2 {
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
     border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
+.footer {
+  background-color: #1f2937;
+  padding: 2% 0;
+  color: #f9faf8;
+  justify-content: center;
+}
